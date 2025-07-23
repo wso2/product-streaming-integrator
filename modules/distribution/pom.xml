@@ -653,7 +653,7 @@
                                 </feature>
                                 <feature>
                                     <id>org.wso2.carbon.si.management.icp.feature</id>
-                                    <version>${carbon.analytics.icp.version}</version>
+                                    <version>${carbon.analytics.version}</version>
                                 </feature>
                                 <feature>
                                     <id>org.wso2.carbon.metrics.jdbc.core.feature</id>
@@ -673,7 +673,7 @@
                                 </feature>
                                 <feature>
                                     <id>org.wso2.carbon.si.management.icp.feature</id>
-                                    <version>${carbon.analytics.icp.version}</version>
+                                    <version>${carbon.analytics.version}</version>
                                 </feature>
 
                                 <!-- MSF4J Features -->
@@ -914,7 +914,7 @@
                                 </feature>
                                 <feature>
                                     <id>org.wso2.carbon.si.management.icp.feature</id>
-                                    <version>${carbon.analytics.icp.version}</version>
+                                    <version>${carbon.analytics.version}</version>
                                 </feature>
                                 <!-- MSF4J Features -->
                                 <feature>
