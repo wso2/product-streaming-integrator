@@ -689,7 +689,7 @@
             <dependency>
                 <groupId>org.wso2.carbon.analytics</groupId>
                 <artifactId>org.wso2.carbon.si.management.icp.feature</artifactId>
-                <version>${carbon.analytics.icp.version}</version>
+                <version>${carbon.analytics.version}</version>
                 <type>zip</type>
             </dependency>
             <dependency>
@@ -1113,8 +1113,7 @@
 
     <properties>
         <streaming.integration.version>${project.version}</streaming.integration.version>
-        <carbon.analytics.version>3.0.74</carbon.analytics.version>
-        <carbon.analytics.icp.version>3.0.71</carbon.analytics.icp.version>
+        <carbon.analytics.version>3.0.76</carbon.analytics.version>
         <siddhi.version>5.1.31</siddhi.version>
 
         <carbon.analytics-common.version>6.1.69</carbon.analytics-common.version>
@@ -1219,7 +1218,7 @@
         <common.collections4.version>4.0</common.collections4.version>
 
         <!--MSF4J related-->
-        <msf4j.version>2.8.12</msf4j.version>
+        <msf4j.version>2.8.13</msf4j.version>
         <com.fasterxml.jackson.core.version>2.16.0</com.fasterxml.jackson.core.version>
         <com.fasterxml.jackson.databind.version>2.16.0</com.fasterxml.jackson.databind.version>
         <io.swagger.version>1.5.22</io.swagger.version>
